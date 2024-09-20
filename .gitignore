@@ -7,7 +7,7 @@ pnpm-debug.log*
 lerna-debug.log*
 
 node_modules
-# dist  <-- Comment out or remove this line
+# dist  <-- Should be commented out or removed
 dist-ssr
 *.local
 
